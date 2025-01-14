@@ -1,0 +1,349 @@
+a:hover {
+  border-bottom: 1px solid aqua;
+}
+
+.download-container .download-main-row {
+  position: relative;
+  height: 500px;
+  background-color: #e1f3e5;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.download-container .download-main-text {
+  font-family: "Cabinet Grotesk";
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 56px;
+  letter-spacing: -1.04px;
+}
+.download-container .download-detail {
+  color: #878787;
+  font-family: "Satoshi Variable";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.download-container .btn {
+  width: 18rem;
+  height: 3rem;
+  font-family: "Satoshi Variable";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.36px;
+  color: #0a421a;
+  border-radius: 6px;
+  border: 1px solid #afdf37;
+  padding: 12px 28px;
+  background-color: #b6ec2e;
+}
+
+@media only screen and (max-width: 767px) {
+  .creative-container {
+    left: 100px;
+    top: 100px;
+  }
+}
+.creative-container {
+  position: absolute;
+  top: 100px;
+  left: 600px;
+  border-radius: 16px;
+  border: 1.146px solid #ebebeb;
+  background: #fff;
+}
+.creative-container .pseudo-container .side-nav .infos {
+  color: #7e7e7e;
+}
+.creative-container .pseudo-container .details-right {
+  width: -moz-max-content;
+  width: max-content;
+}
+.creative-container .pseudo-container .details-right .row {
+  background-color: #fbfbfb;
+}
+.creative-container .pseudo-container .details-right .row h3 {
+  color: #040404;
+  font-family: "Satoshi Variable";
+  font-size: 12.988px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18.183px; /* 140% */
+  letter-spacing: -0.26px;
+}
+.creative-container .pseudo-container .details-right .row .parah {
+  margin-top: -30px;
+}
+.creative-container .pseudo-container .details-right .row .f-text {
+  color: #7e7e7e;
+  font-family: "Satoshi Variable";
+  font-size: 9.091px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 140%; /* 12.728px */
+  letter-spacing: -0.182px;
+}
+.creative-container .pseudo-container .details-right .row .m-text {
+  color: #040404;
+  font-family: "Satoshi Variable";
+  font-size: 11.689px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%; /* 16.364px */
+  letter-spacing: -0.234px;
+  margin-top: -10px;
+}
+.creative-container .pseudo-container .details-right .row .l-text {
+  color: #7e7e7e;
+  font-family: "Satoshi Variable";
+  font-size: 9.091px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 12.988px; /* 142.857% */
+  letter-spacing: -0.182px;
+  margin-top: -10px;
+}
+.creative-container .pseudo-container .details-right .logo-border {
+  width: 24px;
+  height: 24px;
+  background-color: #46b565;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.creative-container .pseudo-container .details-right .card {
+  background-color: #f3faf5;
+}
+.creative-container .pseudo-container .details-right .card p {
+  color: #041b0b;
+  font-family: "Satoshi Variable";
+  font-size: 10.39px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15.585px; /* 150% */
+  margin-top: 10px;
+}
+.creative-container .pseudo-container .details-right .card h3 {
+  margin-top: -10px;
+}
+.creative-container .nav-row {
+  border: 1.146px solid #ebebeb;
+}
+.creative-container .nav-row .texts {
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-min-content;
+  height: min-content;
+}
+.creative-container .nav-row .texts #text1 {
+  color: #414141;
+  font-family: "Satoshi Variable";
+  font-size: 9.091px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 12.988px; /* 142.857% */
+}
+.creative-container .nav-row .texts #text2 {
+  color: #414141;
+  font-family: "Satoshi Variable";
+  font-size: 7.793px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 12.988px; /* 166.667% */
+  margin-top: -16px;
+}
+.creative-container .nav-row .chevron {
+  background-color: #f1f1f1;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-min-content;
+  height: min-content;
+  z-index: 0;
+}
+.creative-container .nav-row .add-section {
+  border-radius: 44px;
+  border: 0.649px solid, #b4e1c1;
+  background: #e1f3e5;
+  display: flex;
+  padding: 5px 7px;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  width: 100px;
+  height: 30px;
+}
+.creative-container .nav-row .add-section p {
+  color: #062a11;
+  font-family: "Satoshi Variable";
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 12px; /* 125% */
+  letter-spacing: -0.208px;
+  margin-top: 16px;
+}
+
+.why-container .why-row1 p {
+  color: #0d2e1b;
+  font-family: "Cabinet Grotesk";
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 56px;
+  letter-spacing: -1.04px;
+}
+.why-container .why-row2 .card {
+  height: 280px;
+  border-radius: 12px;
+}
+.why-container .why-row2 .card .row .card-texts {
+  position: relative;
+}
+.why-container .why-row2 .card .row .card-texts .plus {
+  position: absolute;
+  right: 4px;
+  top: 5px;
+}
+.why-container .why-row2 .card .row .card-texts h4 {
+  font-family: "Satoshi Variable";
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: -0.56px;
+}
+.why-container .why-row2 .card .row .card-texts p {
+  font-family: "Satoshi Variable";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: -0.36px;
+}
+.why-container .why-row2 .right {
+  background: #4a885b;
+}
+.why-container .why-row2 .right h4,
+.why-container .why-row2 .right p {
+  color: #f8fdea;
+}
+.why-container .why-row2 .btwn {
+  background: #e7fced;
+}
+.why-container .why-row2 .btwn p {
+  color: #595959;
+}
+.why-container .why-row2 .left {
+  background: #e7fced;
+}
+.why-container .why-row2 .left p {
+  color: #595959;
+}
+
+.At-Virit-container .row h5 {
+  color: #202020;
+  font-family: "Satoshi Variable";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 36px; /* 150% */
+}
+.At-Virit-container .row P {
+  color: #0d2e1b;
+  font-family: "Cabinet Grotesk Variable";
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px; /* 128.571% */
+  letter-spacing: -0.56px;
+}
+.At-Virit-container .row h4 {
+  color: #0d2e1b;
+  font-family: "Cabinet Grotesk";
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 56px; /* 107.692% */
+  letter-spacing: -1.04px;
+}
+.At-Virit-container .row .inner-row .btn {
+  border-radius: 6px;
+  border: 1px solid #4a885b;
+  height: 35px;
+}
+.At-Virit-container .row .inner-row .btn p {
+  color: #4a885b;
+  font-family: "Satoshi Variable";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.32px;
+  text-wrap: nowrap;
+}
+
+.request-container .main-row {
+  background-color: #f8fdea;
+  height: 500px;
+  position: relative;
+}
+.request-container .main-row .row .big-text {
+  color: #313131;
+  font-family: "Cabinet Grotesk Variable";
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 107.692% */
+  letter-spacing: -1.04px;
+}
+.request-container .main-row .row .small-text {
+  color: #969696;
+  font-family: "Satoshi Variable";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+}
+.request-container .main-row .row .btn {
+  border-radius: 8px;
+  border: 1px solid #18a23f;
+  background: #18a23f;
+  color: white;
+  height: 40px;
+}
+.request-container .main-row .logos {
+  position: absolute;
+}
+.request-container .main-row #logo1 {
+  top: 35px;
+  right: 0px;
+}
+.request-container .main-row #logo2 {
+  bottom: 0px;
+  left: 70px;
+}
+.request-container .main-row #logo3 {
+  right: 70px;
+  bottom: 0px;
+}
+.request-container .main-row #logo4 {
+  top: 5px;
+  left: 0px;
+}
+
+.mobile-footer {
+  background-color: #041b0b;
+  border-radius: 12px;
+}
+.mobile-footer .row {
+  padding: 48px 23px 56px 40px;
+}
+.mobile-footer .row p {
+  color: #b8b8b8;
+}
+.mobile-footer .row h2 {
+  color: #ffffff;
+}/*# sourceMappingURL=index.css.map */
